@@ -7,18 +7,21 @@ Simoona encourages more interactions, more social activities, more fun. Focus on
 
 ![Simoona demo](img/simoona-demo.gif "Simoona demo")
 
-## Walls feature
+## Features
+
+### Walls feature
 
 ![Walls management feature](img/feature-walls.gif "Walls feature")
 
-## Employee management feature
+### Employee management feature
 
 ![Employees management feature](img/feature-employees.gif "Employees management feature")
 
-## Kudos feature
+### Kudos feature
 
 ![Kudos feature](img/feature-kudos.gif "Kudos feature")
 
+## Project Structure
 
 Simoona consists of two main parts:
 
