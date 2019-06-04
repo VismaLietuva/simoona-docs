@@ -5,19 +5,19 @@
 Simoona is smart and intuitive social intranet solution made for effective communication, empowerment, acknowledgement and social networking of your company employees.
 Simoona encourages more interactions, more social activities, more fun. Focus on what's important and create the atmosphere of respect and acknowledgment.
 
-![Simoona demo](img\simoona-demo.gif "Simoona demo")
+![Simoona demo](img/simoona-demo.gif "Simoona demo")
 
 ## Walls feature
 
-![Walls management feature](img\feature-walls.gif "Walls feature")
+![Walls management feature](img/feature-walls.gif "Walls feature")
 
 ## Employee management feature
 
-![Employees management feature](img\feature-employees.gif "Employees management feature")
+![Employees management feature](img/feature-employees.gif "Employees management feature")
 
 ## Kudos feature
 
-![Kudos feature](img\feature-kudos.gif "Kudos feature")
+![Kudos feature](img/feature-kudos.gif "Kudos feature")
 
 
 Simoona consists of two main parts:
