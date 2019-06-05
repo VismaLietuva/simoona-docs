@@ -7,26 +7,46 @@ Simoona encourages more interactions, more social activities, more fun. Focus on
 
 ![Simoona demo](img/simoona-demo.gif "Simoona demo")
 
-## Features
+## Simoona Features
 
-### Walls feature
+<details>
+  <summary>Wall feature</summary>
 
-![Walls management feature](img/feature-walls.gif "Walls feature")
+  Only the option of speaking up and sharing what one cares about creates the atmosphere of freedom, equality and knowing that every employee matters and will be heard.
+  
+  Simoona Wall helps to understand what employees are thinking and care about. Give your people the ability to share their thoughts and participate in lively debates and discussions. Having a voice matters to engagement.
+  
+  Simoona Wall works as simple as any social media wall. Employees can write posts of any length, add pictures, videos links or gif images. Fellow employees can react to the conversation by liking it or adding a comment. Comment section allows users to add any kind of pictures, videos and links.
 
-### Employee management feature
+  ![Wall feature](img/feature-walls.gif "Wall feature")
+</details>
 
-![Employees management feature](img/feature-employees.gif "Employees management feature")
+<details>
+  <summary>Employees feature</summary>
 
-### Kudos feature
+  Simoona employees (users) can be easily browsed in Employees list. It makes it really easy to find your job fellow and get more details how to contact him. Employee profile is also a part of Employees feature.
+  
+  ![Employees feature](img/feature-employees.gif "Employees feature")
+</details>
 
-![Kudos feature](img/feature-kudos.gif "Kudos feature")
+<details>
+  <summary>Kudos feature</summary>
+
+  Social contribution needs to be quantified – that’s why Simoona has a built-in Kudos reward system. Every employee can assign certain points per good deed and demonstrate the recognition to the colleague.
+  
+  It’s a cornerstone of a social status (and thus a peer pressure): doing a right thing for a team not only is good, but it also tangible and clearly visible to everyone. Any organization can decide on its very own Kudos system design. Kudos employee reward system provides gamification dimension to organizational culture. The important thing is creating work culture provides recognition for social contributors and achievers.
+  
+  Kudos feature is fast and easy to use. User can pick any fellow employee and set the amount of donated Kudos, reasoning it by describing the good deed or work done by the Kudos recipient.
+
+  ![Kudos feature](img/feature-kudos.gif "Kudos feature")
+</details>
 
 ## Project Structure
 
 Simoona consists of two main parts:
 
-* Front-end webapp - purely AngularJS appication (no server-side code),
-* Back-end app - ASP.NET MVC+WebApi project, with EntityFramework code-first database.
+* Front-end webapp – purely AngularJS appication (no server-side code),
+* Back-end app – ASP.NET MVC+WebApi project, with EntityFramework code-first database.
 
 ## Install from Binaries
 
