@@ -2,8 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/j5y450yftsvso2je?svg=true)](https://ci.appveyor.com/project/Simoona/simoona-ks9ka) [![Join the chat at https://gitter.im/simoona-oss/community](https://badges.gitter.im/simoona-oss/community.svg)](https://gitter.im/simoona-oss/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Simoona is smart and intuitive social intranet solution made for effective communication, empowerment, acknowledgement and social networking of your company employees.
-Simoona encourages more interactions, more social activities, more fun. Focus on what's important and create the atmosphere of respect and acknowledgment.
+Simoona is an open source intranet solution powered by Visma. We created Simoona so your company could make its communication more intuitive, more efficient, more empowering, and more fun. In the open source version you will be able to use the core functions of Simoona. Want to add a feature? No problem, you can either get the full version from us or edit the open source version and make it the best intranet solution for your team. Focus on what's important and create an atmosphere of respect and acknowledgment.
 
 ![Simoona demo](img/simoona-demo.gif "Simoona demo")
 
@@ -24,7 +23,11 @@ Simoona encourages more interactions, more social activities, more fun. Focus on
 <details>
   <summary>Employees feature</summary>
 
-  Simoona employees (users) can be easily browsed in Employees list. It makes it really easy to find your job fellow and get more details how to contact him. Employee profile is also a part of Employees feature.
+  It sometimes gets hard to wrap your head around all the new faces in the office. That's why Simoona has an Employee list which will help you learn more about your colleagues.
+  
+  The list consists of the employee’s name and surname, birth date, position at the company, telephone number and work hours. If you want to get down the path of learning more about your colleagues, you can visit their page. There you will be able to find a photo, their email, when did they start working at the company, their senior, workplace, what projects are they on, and something about themselves if they are willing to share.
+  
+  So all of this will make it so much easier to keep track of who is who and more. This feature is especially valuable for bigger companies or the one’s scattered through different cities or countries.
   
   ![Employees feature](img/feature-employees.gif "Employees feature")
 </details>
